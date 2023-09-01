@@ -1,0 +1,162 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Lato:wght@400;700&family=Montserrat:wght@400;700&family=Prata&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Lato:wght@400;700&family=Montserrat:ital,wght@0,400;0,700;1,400&family=Prata&family=Roboto:wght@100&display=swap');
+/*
+Font
+Body: #393d41 – 1.2rem – Open Sans – interlinea 1.65
+*/
+
+.container{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+p{
+    text-align: center;
+    margin: 20px;
+    
+}
+
+.image{
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+
+}
+
+image{
+    width: 30%;
+}
+
+
+
+
+/*
+Headings: #25a2c3 – Montserrat (bold) – interlinea 1.5
+*/
+header{
+    background-image: url(../images/banner.jpg);
+    
+
+}
+
+h1{
+    color: #3394c6;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+h3{
+    color: #3394c6;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+
+header button{
+    margin: 30px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    text-align: center;
+    
+}
+
+.note-img{
+    text-align: center;
+}
+
+.orange-block{
+    background-color: orangered;
+    padding: 20px;
+}
+
+.orange-block h1{
+    color: white;
+}
+
+.orange-block p{
+    color: white;
+}
+
+.orange-block > p{
+    font-style: italic;
+}
+
+.image1{
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+
+}
+
+.image2{
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+
+}
+
+.image3{
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+
+}
+
+footer{
+    background-color: rgb(101, 172, 231);
+    padding: 20px;
+
+}
+
+footer h1, p, a{
+    text-align: center;
+
+}
+
+footer a{
+    display: block;
+}
+
+.footer-block p{
+    
+    color: white;
+}
+
+.footer-block h1{
+    
+    color: white;
+}
+
+.footer-block a{
+    
+    color: white;
+}
+
+.section1{
+
+    border: 1px solid rgb(189, 185, 185);
+}
+
+.section2{
+
+    border: 1px solid rgb(189, 185, 185);
+}
+
+.section3{
+
+    border: 1px solid rgb(189, 185, 185);
+}
+
+
+
