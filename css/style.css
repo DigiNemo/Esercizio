@@ -58,6 +58,10 @@ h3{
 
 }
 
+.button{
+    text-align: center;
+}
+
 
 header button{
     margin: 30px;
@@ -67,7 +71,7 @@ header button{
     background-color: orangered;
     color: white;
     border: none;
-    text-align: center;
+    
     
 }
 
@@ -96,6 +100,7 @@ header button{
     text-align: center;
     background-color: white;
     padding: 30px;
+    
 
 }
 
@@ -103,6 +108,7 @@ header button{
     text-align: center;
     background-color: white;
     padding: 30px;
+    
 
 }
 
@@ -110,6 +116,7 @@ header button{
     text-align: center;
     background-color: white;
     padding: 30px;
+    
 
 }
 
