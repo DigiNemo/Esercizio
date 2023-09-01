@@ -37,6 +37,7 @@ Headings: #25a2c3 – Montserrat (bold) – interlinea 1.5
 */
 header{
     background-image: url(../images/banner.jpg);
+    background-size: cover;
     
 
 }
