@@ -96,26 +96,41 @@ header button{
     font-style: italic;
 }
 
-.image1{
+.section1{
     text-align: center;
     background-color: white;
-    padding: 30px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 90%;
     
 
 }
 
-.image2{
+.section2{
     text-align: center;
     background-color: white;
-    padding: 30px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 90%;
     
 
 }
 
-.image3{
+.section3{
     text-align: center;
     background-color: white;
-    padding: 30px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 90%;
     
 
 }
